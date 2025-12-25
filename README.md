@@ -88,20 +88,21 @@ The primary objective is to analyze the **theoretical**, **simulated** (using Mu
 
 - As **frequency (f)** increases, the capacitor's active resistance (**Xc**) decreases:
 
-\[
+$$
 X_c = \frac{1}{2\pi f C} \quad (\text{capacitive reactance})
-\]
+$$
 
 - Resulting in an **increase in current (I)** through the circuit.
 
 ### Frequency Response (RL Series)
 
 - As frequency increases, the **current remains relatively constant**.
-- The coil's active resistance (**Xl**) increases:
+- The coil's active resistance (**X_L**) increases:
 
-\[
+$$
 X_L = 2\pi f L \quad (\text{inductive reactance})
-\]
+$$
+
 
 ### Phase Difference
 
