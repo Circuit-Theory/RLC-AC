@@ -24,8 +24,22 @@
 </p>
 
 <p align="center">
-  Supervisor: Christos Kampouris, Laboratory Teaching Staff<br>
+  <a href="https://github.com/Ath21" target="_blank">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/vasilis-athanasiou-7036b53a4/" target="_blank">LinkedIn</a>
+</p>
+
+<p align="center">
+  Supervisor: Christos Kampouris, Laboratory Teaching Staff
+</p>
+<p align="center">
+  <a href="https://www.syros.aegean.gr/en/staff/research-staff/phd-candidates/christos-kampouris" target="_blank">UNIWA Profile</a>
+</p>
+
+<p align="center">
   Co-supervisor: Georgios Antoniou, Laboratory Teaching Staff
+</p>
+<p align="center">
+  <a href="https://ice.uniwa.gr/en/emd_person/georgios-antoniou/" target="_blank">UNIWA Profile</a>
 </p>
 
 <p align="center">
@@ -44,11 +58,20 @@ The primary objective is to analyze the **theoretical**, **simulated** (using Mu
 
 ## Table of Contents
 
-| Section | Title          | Description                                    |
-|--------:|----------------|------------------------------------------------|
-| assign  | Assignment     | Contains assignments and tasks                 |
-| docs    | Documentation  | Project documentation, guides, and notes       |
-| multisim     | Multisim    | All souce multisim files implementing the circuits      |
+| Section | Folder | Description |
+|------:|--------|-------------|
+| 1 | `assign/` | Assignment material for the Circuit Theory course |
+| 1.1 | `assign/circuit theory rev2021_EXERCISE_3rd.pdf` | Assignment description in English |
+| 1.2 | `assign/θεωρία κυκλωμάτων rev2021_ΑΣΚΗΣΗ_3η.pdf` | Assignment description in Greek |
+| 2 | `docs/` | Documentation on RLC components connected to AC power supply |
+| 2.1 | `docs/RLC-Component-Connections-to-AC-Power-Supply.pdf` | English documentation |
+| 2.2 | `docs/Συνδεσμολογίες-Εξαρτημάτων-RLC-σε-AC-Τάση.pdf` | Greek documentation |
+| 3 | `multisim/` | Circuit simulation files for AC RLC systems |
+| 3.1 | `multisim/OscilloscopeRCParallel.ms14` | RC parallel circuit with oscilloscope |
+| 3.2 | `multisim/OscilloscopeRCSerial.ms14` | RC series circuit with oscilloscope |
+| 3.3 | `multisim/OscilloscopeRL2Parallel.ms14` | RL parallel circuit with oscilloscope |
+| 3.4 | `multisim/OscilloscopeRLSeirial.ms14` | RL series circuit with oscilloscope |
+| 4 | `README.md` | Repository overview and usage instructions |
 
 ## Key Modules
 
