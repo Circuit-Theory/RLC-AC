@@ -46,6 +46,7 @@
   Athens, June 2022
 </p>
 
+---
 
 ## Project Overview
 
