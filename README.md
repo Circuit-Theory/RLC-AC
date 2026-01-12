@@ -134,9 +134,58 @@ $$
   Example: **10 ms difference at 100 Hz** for the capacitor.
 
 ---
-# Installation Guide
 
-Clone this repository to your local machine. 
+# Installation & Setup Guide
+
+This repository contains laboratory simulations and analysis for **Circuit Theory**, focusing on **RLC series and parallel circuits** and their resonance behavior.  
+
+All simulations are implemented in **NI Multisim**.
+
+---
+
+## Prerequisites
+
+### Required Software
+- **NI Multisim 14** (or later)  
+  Ensure your system meets the requirements for running `.ms14` files.  
+  Download from [NI Multisim](https://www.ni.com/en-us/shop/electronic-test-instrumentation/application-software-for-electronic-test-and-instrumentation-category/what-is-multisim.html).
+
+### Optional Software
+- **PDF Viewer** for documentation: `RLC-Component-Connections-to-AC-Power-Supply.pdf` / `Συνδεσμολογίες-Εξαρτημάτων-RLC-σε-AC-Τάση.pdf`
+
+---
+
+## Installation Steps
+
+### 1. Clone the Repository
 ```bash
 git clone https://github.com/Circuit-Theory/RLC-AC.git
-``` 
+```
+
+### 2. Navigate to Project Directory
+```bash
+cd RLC-AC
+```
+Ensure the following folder structure exists:
+```bash
+assign/
+docs/
+multisim/
+```
+
+---
+
+### 3. Open a Simulation in Multisim
+- Launch NI Multisim.
+- Select File → Open.
+- Navigate to the `multisim/` folder.
+- Open the desired `.ms14` file (series or parallel circuit).
+- Wait for the circuit topology to load.
+
+---
+
+## Open the Documentation
+1. Navigate to the `docs/` directory
+2. Open the report corresponding to your preferred language:
+    - English: `RLC-Component-Connections-to-AC-Power-Supply.pdf`
+    - Greek: `Συνδεσμολογίες-Εξαρτημάτων-RLC-σε-AC-Τάση.pdf`
