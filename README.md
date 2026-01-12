@@ -48,7 +48,7 @@
 
 ---
 
-## Project Overview
+# Project Overview
 
 This laboratory project explores the behavior of **RLC components** (Resistor, Inductor, Capacitor) when connected to an **alternating current (AC) power supply**.  
 The project was conducted as part of the **Circuit Theory** course at the **University of West Attica**.
@@ -134,7 +134,7 @@ $$
   Example: **10 ms difference at 100 Hz** for the capacitor.
 
 ---
-## Installation Guide
+# Installation Guide
 
 Clone this repository to your local machine. 
 ```bash
