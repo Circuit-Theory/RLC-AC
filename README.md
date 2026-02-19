@@ -112,7 +112,7 @@ The primary objective is to analyze the **theoretical**, **simulated** (using Mu
 |     3.2 | `multisim/OscilloscopeRCSerial.ms14`                    | RC series circuit with oscilloscope                          |
 |     3.3 | `multisim/OscilloscopeRL2Parallel.ms14`                 | RL parallel circuit with oscilloscope                        |
 |     3.4 | `multisim/OscilloscopeRLSeirial.ms14`                   | RL series circuit with oscilloscope                          |
-|       4 | `README.md`                                             | Repository overview and usage instructions                   |
+|       4 | `README.md`                                             | Repository overview                                          |
 |       5 | `INSTALL.md`                                            | Usage instructions                                           |
 
 ---
